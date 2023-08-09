@@ -1,0 +1,97 @@
+[
+    {
+      "id": "c19d9e55-aa38-453f-ab3e-79bb9fd64e2d",
+      "name": "Los Angeles Lakers Icon Edition 2022/23",
+      "description": "Camiseta Nike Dri-FIT NBA Swingman",
+      "sizes": ["XS","S","M","L", "XL","XXL"],
+      "category": "Camisetas",
+      "images": ["https://static.nike.com/a/images/t_PDP_1728_v1/f_auto,q_auto:eco/0048d80c-729e-41fe-b496-d3050f54adc7/los-angeles-lakers-icon-edition-2022-23-camiseta-dri-fit-nba-swingman-v5RTGr.png",
+        "https://static.nike.com/a/images/t_PDP_1728_v1/f_auto,q_auto:eco/9acdb733-1ae2-4e49-8268-399c0cc4b46e/los-angeles-lakers-icon-edition-2022-23-camiseta-dri-fit-nba-swingman-v5RTGr.png", 
+        "https://static.nike.com/a/images/t_PDP_1728_v1/f_auto,q_auto:eco/a2400419-2233-428b-8f14-9b6439a2a50d/los-angeles-lakers-icon-edition-2022-23-camiseta-dri-fit-nba-swingman-v5RTGr.png"
+      ],
+      "price": 400000,
+      "stock": 12,
+      "brand": "Nike",
+      "colours": ["Amarillo", "Morada", "Blanca"], 
+      "details":"Cada equipo tiene sus propios colores, una identidad inconfundible para diferenciarse del resto de la liga. Esta camiseta de los Los Angeles Lakers, que rinde homenaje a una gran tradición de baloncesto, se inspira directamente en el look que llevan los profesionales en la cancha, desde detalles del equipo hasta una malla ligera con capilarización del sudor. Mantén la transpirabilidad y la frescura dentro y fuera de la cancha mientras animas a tu equipo favorito y practicas el deporte que más te gusta."
+    },
+    {
+      "id": "40b44268-6042-43c7-83bf-2046a5168d9f",
+      "name": "Los Angeles Lakers Statement Edition",
+      "description": "Camiseta Jordan Dri-FIT NBA Swingman",
+      "sizes": ["XS","S","M","L", "XL","XXL"],
+      "category": "Camisetas",
+      "images": ["https://static.nike.com/a/images/t_PDP_1728_v1/f_auto,q_auto:eco/645f3f29-56bf-415d-9697-c3492ee280a1/los-angeles-lakers-statement-edition-camiseta-jordan-dri-fit-nba-swingman-8F7S05.png",
+        "https://static.nike.com/a/images/t_PDP_1728_v1/f_auto,q_auto:eco/41eb417d-dc9b-4e59-9d05-4a8a7f527f7e/los-angeles-lakers-statement-edition-camiseta-jordan-dri-fit-nba-swingman-8F7S05.png", 
+        "https://static.nike.com/a/images/t_PDP_1728_v1/f_auto,q_auto:eco/73ac27b3-bcc8-460d-bce4-308a7a8be5f0/los-angeles-lakers-statement-edition-camiseta-jordan-dri-fit-nba-swingman-8F7S05.png"
+      ],
+      "price": 310000,
+      "stock": 12,
+      "brand": "Nike",
+      "colours": ["Amarillo", "Morada", "Blanca"], 
+      "details":"Viste como tu jugador favorito con esta camiseta de los Los Angeles Lakers, la prenda perfecta para cualquier aficionado, decorada con un logotipo y detalles de diseño a juego con el uniforme que llevan los profesionales en la cancha. El tejido de malla transpirable con tecnología de capilarización del sudor mantiene la frescura y la transpirabilidad tanto en la cancha como en la calle."
+    },
+    {
+      "id": "f72aacfb-6c01-46b3-b8a2-49c7e2c4b70e",
+      "name": "Los Angeles Lakers Association Edition 2022/23",
+      "description": "Camiseta Nike Dri-FIT NBA Swingman",
+      "sizes": ["XS","S","M","L", "XL","XXL"],
+      "category": "Camisetas",
+      "images": ["https://static.nike.com/a/images/t_PDP_1728_v1/f_auto,q_auto:eco/bbf03bb1-c42e-480d-80e1-7889af49137e/los-angeles-lakers-association-edition-2022-23-camiseta-swingman-dri-fit-de-la-nba-1mqwPQ.png",
+        "https://static.nike.com/a/images/t_PDP_1728_v1/f_auto,q_auto:eco/e05c7de3-6528-4f92-ba64-d92b26df17d7/los-angeles-lakers-association-edition-2022-23-camiseta-swingman-dri-fit-de-la-nba-1mqwPQ.png"
+      ],
+      "price": 410000,
+      "stock": 12,
+      "brand": "Nike",
+      "colours": ["Amarillo", "Morada", "Blanca"], 
+      "details":"La camiseta Association Edition, confeccionada con un fondo blanco, es un hilo común que une a todos los equipos de la NBA. Esta camiseta de Los Angeles Lakers se inspira en la que llevan los profesionales en la cancha, desde los colores y los estampados del equipo hasta una malla ligera que capilariza el sudor. Mantén la transpirabilidad y la frescura dentro y fuera de la cancha mientras animas a tu equipo favorito y practicas el deporte que más te gusta."
+    },
+    {
+      "id": "982d4602-6bcb-4beb-a42e-e5d9039eb967",
+      "name": "Los Angeles Lakers Icon Edition",
+      "description": "Nike NBA Swingman Pantalón corto - Hombre",
+      "sizes": ["XS","S","M","L", "XL","XXL"],
+      "category": "Pantalonetas",
+      "images": ["https://static.nike.com/a/images/t_PDP_1728_v1/f_auto,q_auto:eco/bfe906f3-0ff3-461b-856c-f95536754349/los-angeles-lakers-icon-edition-pantalon-corto-nba-swingman-DP5K3l.png",
+        "https://static.nike.com/a/images/t_PDP_1728_v1/f_auto,q_auto:eco/0104d662-b020-4b0a-a287-014460a63ba0/los-angeles-lakers-icon-edition-pantalon-corto-nba-swingman-DP5K3l.png", 
+        "https://static.nike.com/a/images/t_PDP_1728_v1/f_auto,q_auto:eco/d12d3bb9-c277-45c7-93f6-57463a5ea6c8/los-angeles-lakers-icon-edition-pantalon-corto-nba-swingman-DP5K3l.png"
+      ],
+      "price": 210000,
+      "stock": 12,
+      "brand": "Nike",
+      "colours": ["Amarillo", "Morada", "Blanca"], 
+      "details":"El pantalón corto Nike NBA Swingman Icon Edition de Los Angeles Lakers tiene un diseño inspirado en el auténtico pantalón corto de la NBA. Cuenta con un tejido con capilarización del sudor y bolsillos laterales de fácil acceso. Los detalles de diseño combinan con el look de tu equipo sobre la cancha. Este producto está fabricado al 100 % con fibras de poliéster reciclado."
+    },
+    {
+      "id": "a8ed478b-78ae-4379-8cd5-55df238b889e",
+      "name": "Los Angeles Lakers Statement Edition",
+      "description": "Pantalón corto de baloncesto Jordan Dri-FIT NBA Swingman - Hombre",
+      "sizes": ["XS","S","M","L", "XL","XXL"],
+      "category": "Pantalonetas",
+      "images": ["https://static.nike.com/a/images/t_PDP_1728_v1/f_auto,q_auto:eco/fb95cbe5-9504-40bd-aef2-d87aea6add67/los-angeles-lakers-statement-edition-pantalon-corto-de-baloncesto-jordan-dri-fit-nba-swingman-5NwQJ2.png",
+        "https://static.nike.com/a/images/t_PDP_1728_v1/f_auto,q_auto:eco/f6d15079-83ce-4139-b154-e69c8c101df7/los-angeles-lakers-statement-edition-pantalon-corto-de-baloncesto-jordan-dri-fit-nba-swingman-5NwQJ2.png", 
+        "https://static.nike.com/a/images/t_PDP_1728_v1/f_auto,q_auto:eco/5ea9eb6a-5abd-4dd0-85b5-38e435d6a8e8/los-angeles-lakers-statement-edition-pantalon-corto-de-baloncesto-jordan-dri-fit-nba-swingman-5NwQJ2.png"
+      ],
+      "price": 200000,
+      "stock": 12,
+      "brand": "Nike",
+      "colours": ["Amarillo", "Morada", "Blanca"], 
+      "details":"Emula a tus jugadores favoritos con el pantalón corto Los Angeles Lakers. Es el modelo favorito de los aficionados y cuenta con los colores del equipo, junto con un logotipo y detalles de diseño que combinan con el que los profesionales llevan en la cancha. Además, incorporan malla transpirable con capilarización del sudor para mantener la frescura y la transpirabilidad en los días más fríos en la cancha o informales por la ciudad."
+    },
+    {
+      "id": "b78fa1a0-3ad4-42c0-a92e-1f0a1a28ca0f",
+      "name": "Los Angeles Lakers Nike Swingman",
+      "description": "Pantalón corto de la NBA - Hombre",
+      "sizes": ["XS","S","M","L", "XL","XXL"],
+      "category": "Pantalonetas",
+      "images": ["https://static.nike.com/a/images/t_PDP_1728_v1/f_auto,q_auto:eco/7ada4ade-1dba-430a-9844-b7b6be69f22f/los-angeles-lakers-swingman-pantalon-corto-de-la-nba-fTVZFp.png",
+        "https://static.nike.com/a/images/t_PDP_1728_v1/f_auto,q_auto:eco/3b96a5e4-edc1-4d76-a07d-e80ac338afdf/los-angeles-lakers-swingman-pantalon-corto-de-la-nba-fTVZFp.png", 
+        "https://static.nike.com/a/images/t_PDP_1728_v1/f_auto,q_auto:eco/5baeb134-2800-48c2-b00f-0a8e8ef30bde/los-angeles-lakers-swingman-pantalon-corto-de-la-nba-fTVZFp.png"
+      ],
+      "price": 180000,
+      "stock": 12,
+      "brand": "Nike",
+      "colours": ["Amarillo", "Morada", "Blanca"], 
+      "details":"El pantalón corto Nike Swingman de Los Angeles Lakers tiene un diseño inspirado en el auténtico pantalón corto de la NBA. Está confeccionado con un tejido con capilarización del sudor y detalles de diseño que van a juego con el look de tu equipo en la cancha. Sus bolsillos laterales son ideales para guardar tus cosas fácilmente. Este producto está fabricado al 100 % con fibras de poliéster reciclado."
+    }
+  ]
