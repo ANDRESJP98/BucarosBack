@@ -8,20 +8,20 @@ const PurchasedProductModel=require("./models/PurchasedProduct")
 const ReviewModel = require('./models/Reviews')
 const CartProductsModel=require("./models/CartProducts")
 
-const { DB_USER, DB_PASSWORD, DB_HOST,BD } = process.env;
+const { DB_USER, DB_PASSWORD, DB_HOST,BD, DB_DEPLOY} = process.env;
 // PARA DEPLOY CON RENDER
-// const sequelize = new Sequelize(
-//    DB_DEPLOY,
-//    {
-//       logging: false, 
-//       native: false, 
-//       dialectOptions: {
-//          ssl: {
-//             require: true
-//          }
-//       }
-//    }
-// )
+ const sequelize = new Sequelize(
+    DB_DEPLOY,
+    {
+       logging: false, 
+       native: false, 
+       dialectOptions: {
+          ssl: {
+             require: true
+          }
+       }
+    }
+ )
 
 // PARA DEPLOY CON RAILWAY
 /*  const sequelize = new Sequelize(
@@ -33,14 +33,14 @@ const { DB_USER, DB_PASSWORD, DB_HOST,BD } = process.env;
    }  
 )   */
 
-   const sequelize = new Sequelize(
+   /* const sequelize = new Sequelize(
      `postgres:${DB_USER}:${DB_PASSWORD}@${DB_HOST}/${BD}`,
      {
         logging: false, 
         native: false
      }
   ) 
-
+ */
 UserModel(sequelize);
 ProductModel(sequelize);
 CartModel(sequelize);
